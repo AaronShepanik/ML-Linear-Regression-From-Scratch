@@ -24,6 +24,6 @@ I made a three-part youtube series explaining all of the steps in this process i
 
 <p align="center">
 Sample output <br/>
-<img src="https://github.com/AaronShepanik/Residual-Plots/blob/main/Residual%20Plots%20in%20Python/resid_plots.png"/>
+<img src="https://github.com/AaronShepanik/ML-Linear-Regression-From-Scratch/blob/main/Images/Linear%20Regression%20pART%201%20TNAIL.jpg"/>
 <br />
 <br />
